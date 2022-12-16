@@ -32,7 +32,7 @@ Answer:
 Answer:
 
 
-## Organization within the team
+# Organization within the team
 Colin:
 Matthieu:
 Hendrik:
