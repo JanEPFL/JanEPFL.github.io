@@ -34,6 +34,9 @@ Answer:
 
 # Organization within the team
 Colin:
+
 Matthieu:
+
 Hendrik:
+
 Jan:
