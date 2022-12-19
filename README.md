@@ -26,13 +26,6 @@ Answer:
 ## Did the age distribution of men and women of the cast in successful movies change over time?
 Answer:
 
-## What could have caused these changes?
-Answer:
-
-## What can you infer from these changes about society?
-Answer:
-
-
 # Organization within the team
 Colin:
 
