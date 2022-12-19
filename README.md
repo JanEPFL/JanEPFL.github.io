@@ -3,9 +3,9 @@ After in 2015 all 20 oscar acting nominations were awared to white people, the #
  
 {% include figure.html %}
 
-{% include interactive.html %}
-
 # Research Questions
+
+{% include interactive.html %}
 
 ##	Which characteristics of movies are causing high movie box office revenue?
 Answer:
