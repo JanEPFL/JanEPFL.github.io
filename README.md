@@ -6,7 +6,6 @@ After in 2015 all 20 oscar acting nominations were awarded to white people, the 
 {% include interactive.html %}
 
 # And why should we care?
-
 1) Ethical reasons:
 Diversity is really important! And since movies can be seen as a reflection of their time, the results of this analysis could act as an indicator for changes and advancements in society over time.
 
