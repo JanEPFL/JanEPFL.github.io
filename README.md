@@ -14,8 +14,6 @@ The movie business is a multi-billion-dollar industry, therefore it would be ver
 ## 2) Societal relevance
 Diversity is one of the most controversial topics of our time. However the discussions about this are mostly based on subjective feelings and impressions. An analysis based on data should lead to a more objective assessment of this contentious subject. And since movies can be seen as a reflection of their time, the results of our analysis could act as an indicator for changes and advancements in society over time.
 
-# But what is diversity?
-
 # This leads us to our research questions
 
 ##	Which characteristics of movies are correlated with the movie box office revenue?
@@ -26,7 +24,7 @@ TODO: Insert box office revenue vs m ratio and f ratio plots
 TODO: Elaborate on the implications of these plots
 
 ##	Does ethnical diversity correlate with the box office revenue?
-Answer:
+First we have to clarify here, what diversity is.
 
 ##	Did ethnical diversity in successful movies change over time?
 Answer:
