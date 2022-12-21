@@ -1,6 +1,3 @@
-# Introduction
-TODO: Insert eyecatching introduction (some picture or something like this -> see datastories from last year)
-
 ![Oscar winners 2015](https://user-images.githubusercontent.com/115152807/208877192-e9ee9d61-9026-4395-9545-90735e8a4897.jpg)
 
 # So what is this about?
