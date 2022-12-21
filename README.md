@@ -31,12 +31,16 @@ Answer:
 ## Did the age distribution of men and women of the cast in successful movies change over time?
 Answer:
 
-# Discussion
+# (Discussion)
+-> boundaries of our analysis
 
 # Conclusion
-
+-> summarize our findings
 
 # References
+[1]
+[2]
+[3]
 
 # Who did what?
 Colin:
