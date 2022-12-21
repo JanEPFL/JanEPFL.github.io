@@ -1,7 +1,7 @@
 # Introduction
 TODO: Insert eyecatching introduction (some picture or something like this -> see datastories from last year)
 
-![Oscar winners 2015](/assets/oscars_so_white.jpg)
+![Oscar winners 2015](/JanEPFL.github.io/assets/oscars_so_white.jpg)
 
 # So what is this about?
 After in 2015 all 20 oscar acting nominations were awarded to white people, the #OscarsSoWhite hastag, criticising the lack of diveristy in the film industry, went viral. But should the film industry comply with these demands purely for ethical reasons, or does the film industry benefit from a more diverse cast also from a capitalistical standpoint? To investigate whether a more diverse cast attracts a larger audience and thus achieves more financial success, we examine the box office revenue of the films in the ["CMU Movie Summary Corpus"](http://www.cs.cmu.edu/~ark/personas/) dataset. As a measure of diversity, we focus mainly on ethnicity, gender, and age. In particular, we are interested in whether moviegoers' acceptance or rejection for movies with a more diverse cast has changed over the last 100 years. Since movies produced in the US have the biggest audience and make by far the most money, we'll restrict our analysis on these movies.
