@@ -14,7 +14,7 @@ The movie business is a multi-billion-dollar industry, therefore it would be ver
 ## 2) Societal relevance
 Diversity is one of the most controversial topics of our time. However the discussions about this are mostly based on subjective feelings and impressions. An analysis based on data should lead to a more objective assessment of this contentious subject. And since movies can be seen as a reflection of their time, the results of our analysis could act as an indicator for changes and advancements in society over time.
 
-# So what is diversity
+# But what is diversity?
 
 # This leads us to our research questions
 
