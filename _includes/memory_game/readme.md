@@ -1,3 +1,3 @@
 ## Code for the memory game
 
-credits to https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHJ0eVhxQ1FWcktoUGdGN1lTMDQ3S3AyTHp1QXxBQ3Jtc0ttVVZNXzlPS1ZKOGliYlRSNmxVbU5VY0FiTDRVcHZTcmpYUlI0RGFSajhrY0RlU0J4ZmotVnp6QUx5Nk50LU5TQ2dYMTNKeHl2bVJXQkhVSDNWaEhweC1Ka245WWk4dzJ4aG0tQVpxSEVYRzdjb1RlSQ&q=https%3A%2F%2Fgithub.com%2Fcode-sketch%2Fmemory-game%2F&v=ZniVgo8U7ek
+credits to https://github.com/code-sketch/memory-game/
