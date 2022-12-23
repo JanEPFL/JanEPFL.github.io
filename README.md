@@ -3,7 +3,8 @@ white { color: white }
 black { color: black }
 </style>
 <white> title: Does diversity pay off?</white>
-# <black> Let's play a little game! Try to find matching pairs of the nominees for the acting academy award of 2016!
+# <black> Let's play a little game! 
+## <black> Try to find matching pairs of the nominees for the acting academy award of 2016!
   <title>Memory Game</title>
   <link rel="stylesheet" href="styles.css">
   <section class="memory-game">
@@ -141,7 +142,7 @@ For ethnicities, there exist the following two categories:
 2) Not Hispanic or Latino
 
 The following plot depicts the distribution of the different ethnicities of the movie characters in our dataset. It is clearly visible that the majority of the characters are white.
-{% include ethnicities_evolution.html %}
+{% include ethnicities_evolution.html{ width=50% } %}
 {% include ethnicities_radar_chart.html %}
 ![Plot10](https://user-images.githubusercontent.com/115152807/209190539-a0584b66-48ff-43be-89b0-2d11be17eb32.png)
 ##	<black> Did ethnical diversity in movies change over time?
