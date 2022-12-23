@@ -128,16 +128,24 @@ First we have to clarify here, what diversity is. Wikipedia says that "Diversity
 In order to answer this question, we have to clarify how we confine different races and ethnicities. Since we examine only US-american movies, we adapt the racial and ethnical categories of the US census [2].
 
 Following this definition, there exist the six following racial categories: 
-1) White
-2) Black or African American
-3) Asian
-4) American Indian or Alaska Native
-5) Native Hawaiian or Other Pacific Islander
-6) Other (e.g Aboriginal or Indigenous Australian)
+
+  1) White
+
+  2) Black or African American
+
+  3) Asian
+
+  4) American Indian or Alaska Native
+
+  5) Native Hawaiian or Other Pacific Islander
+
+  6) Other (e.g Aboriginal or Indigenous Australian)
 
 For ethnicities, there exist the following two categories:
-1) Hispanic or Latino
-2) Not Hispanic or Latino
+
+  1) Hispanic or Latino
+
+  2) Not Hispanic or Latino
 
 The following plot depicts the distribution of the different ethnicities of the movie characters in our dataset. It is clearly visible that the majority of the characters are white.
 {% include ethnicities_evolution.html %}
@@ -169,11 +177,7 @@ The following plot demonstrates the evolution of the age distribution of movie a
 
 [3]
 
-# <black> Who did what?
-Colin: Exploratory Data Analysis, Data Cleaning, Data Preprocessing, Data Visualization
-
-Matthieu: Machine Learning
-
-Hendrik: Fighting the confounders and implementing statistical tests
-
-Jan: Creating the website and write the datastory
+# <black> Roll the Credits!
+Written and directed by b0bEast (Colin Pelletier, Matthieu Burguburu, Hendrik Schillinger & Jan Henke) 
+This project was conducted as part of the course Applied Data Analysis (CS-401) at EPFL in Fall 2022.
+The corresponding GitHub repository can be found [here](https://github.com/epfl-ada/ada-2022-project-b0beast).
