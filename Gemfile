@@ -1,4 +1,3 @@
-lines (10 sloc) 398 Bytes
 #after any changes to the Gemfile, execute bundle update!
 source "https://rubygems.org"
 
@@ -8,8 +7,6 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   # gem "github-pages" # https://github.com/github/pages-gem
 end
-
-gem "jekyll-agency"
 
 # Uncomment the following line if developing on Windows: 
 # Performance-booster for watching directories on Windows
