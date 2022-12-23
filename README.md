@@ -1,9 +1,8 @@
 <style>
 white { color: white }
+black { color: black }
 </style>
-<style>
-white { color: black }
-</style>
+
 <white> title: Does diversity pay off?</white>
 
 # <black> Let's play a little game! </black
