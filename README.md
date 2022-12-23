@@ -52,6 +52,10 @@ As we can see in the plot below, the box office revenue correlates with the budg
 The plot below shows that...
 ![Plot 9](https://user-images.githubusercontent.com/115152807/209186298-721c7829-4484-48cc-b2ba-9a9cdda08207.png)
 
+![male_female_vs_box_office](https://user-images.githubusercontent.com/115152807/209372441-1321b2a3-3d48-427d-b331-fb755aaacad8.png)
+![male_female_vs_box_office_regression](https://user-images.githubusercontent.com/115152807/209372442-8876757f-b5e7-431c-bdb9-aa0801d3a798.png)
+
+
 ## How did the distribution of the most popular genres changed over time?
 {% include box_office_genre_evolution.html %}
 
