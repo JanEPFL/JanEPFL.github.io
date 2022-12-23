@@ -35,14 +35,15 @@ TODO: Following paragraph needs Update!
 As we can see in the plot above, the box office revenue correlates with the budget of the movie. A higher budget tends to lead to a higher gross. We can also see that the public perception of a movie which is getting represented through the TMDB vote counts and vote averages slightly correlates with the box office. This implies that a movie which is getting perceived as a good movie is making more money than a movie which is getting perceived as a bad movie. The runtime on the other hand does not seem to have an influence on the financial success of a movie.
 ![Plot 8](https://user-images.githubusercontent.com/115152807/209186176-9e28bcdb-5e37-4cae-8b1d-bfe2af0cdea2.png)
 
-The plot above shows that...
+The plot below shows that...
 ![Plot 9](https://user-images.githubusercontent.com/115152807/209186298-721c7829-4484-48cc-b2ba-9a9cdda08207.png)
 
 ## Lets talk about diversity:
 First we have to clarify here, what diversity is. Wikipedia says that "Diversity as seen in sociology and political studies is the degree of differences in identifying features among the members of a purposefully defined group, such as any group differences in racial or ethnic classifications, age, gender, religion, philosophy, physical abilities, socioeconomic background, sexual orientation, gender identity, intelligence, mental health, physical health, genetic attributes, personality, behavior or attractiveness" [1]. In our analysis we focus on racial and ethnic classsifications, gender, and age. 
 ##	Does ethnical diversity correlate with the box office revenue?
 In order to answer this question, we have to clarify how we confine different races and ethnicities. Since we examine only US-american movies, we adapt the racial and ethnical categories of the US census [2].
-After this definition, there exist the six following racial categories: 1) White
+After this definition, there exist the six following racial categories: 
+1) White
 2) Black or African American
 3) Asian
 4) American Indian or Alaska Native
