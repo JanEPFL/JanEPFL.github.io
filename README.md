@@ -154,9 +154,9 @@ For ethnicities, there exist the following two categories:
   2) Not Hispanic or Latino
 
  
-###	<black> Did ethnical diversity in movies change over time?
+##	<black> Did ethnical diversity in movies change over time?
   
-The following plots depict the distribution of the different ethnicities of the movie characters for the most successful movies from each decade in our dataset. In this case the most successful movies are defined as the ten movies with the highest box office revenue in the decade. As we can see, the vast majority of movie characters in every decade is white and the dominance of white characters has its peak in the 1950s. To get more insights about the distribution of minorities, you can click in the subsequent plot on the white_ratio label to hide it. Then it is clearly visible that the second most represented racial group is Black or African American. Since the 1970s, there appears to be an increase of the diversity among the minorities.
+The following plots depict the distribution of the different ethnicities of the movie characters for the most successful movies from each decade in our dataset. In this case, the most successful movies are defined as the ten movies with the highest box office revenue in the decade. As we can see, the vast majority of movie characters in every decade is white, and the dominance of white characters has its peak in the 1950s. To get more insights about the distribution of minorities, you can click in the subsequent plot on the white_ratio label to hide it. Then it is clearly visible that the second most represented racial group is Black or African American. Since the 1970s, there appears to be an increase of the diversity among the minorities.
   
 {% include ethnicities_evolution.html %}
 
@@ -164,7 +164,7 @@ The previous plot gave us an insight about ethnical diversity importance among t
 
 ![ethnicity_vs_box_office_regression](https://user-images.githubusercontent.com/115152807/209410661-2f5e1742-0821-4ad9-bbef-626d15d2f465.png)
 
-###	<black> Did the gender ratio of the cast in movies change over time?
+##	<black> Did the gender ratio of the cast in movies change over time?
 The following plot demonstrates the gender distribution of the movie cast for each decade. As we can see, the distribution was nearly even in the 1910s and then changed in favor of a male superiority, which had its peak in the 1970s. Since then the share of female actors in the cast is slightly increasing. However, the distribution in the 2010s is still 2:1 in favor of males.
     
 ![gender ratio evolution](https://user-images.githubusercontent.com/115152807/209194110-2c4fa8d9-7e0c-41c1-809d-a2a048ac2738.png)
@@ -175,7 +175,7 @@ Talking about the most successful movies, it appears that male dominated casts t
 ![male_female_vs_box_office_regression](https://user-images.githubusercontent.com/115152807/209401566-6783d01a-8fa6-453d-91d9-372bbb6e409c.png)
   
 It is interesting to note that although this visualization shows a clear trend, other statistical visualizations such as the following paired test contradict these findings, and shows that while it was significantly worse to have a higher female ratio before the 1950s, it has since become significantly positive in order to generate higher earnings to have a higher female ratio after 2010.
-For this reason, we must always be careful when presenting findings that look signifiant at first glance.
+For this reason, we must always be careful when presenting findings that look significant at first glance.
   
 ![female_ratios_differece](https://user-images.githubusercontent.com/115152807/209411333-20d3aa7a-da00-4f64-8a1a-d6a53c8fe431.png)
   
@@ -185,7 +185,8 @@ The following plot demonstrates the evolution of the age distribution of movie a
 {% include age_evolution.html %}
   
 # <black> Discussion
-Although we showed some trends indicating that diversity may sometimes be beneficial, there are any more confounders influencing box office revenue. Below we present a causal diagram we believe represents a good part of these confounders. In general, the movie studio and its budget have a big influence on the main elements that directly influence box office revenue.
+Although we showed some trends indicating that diversity may sometimes be beneficial, there are any more confounders influencing box office revenue. Below, we present a causal diagram we believe represents a good part of these confounders. In general, the movie studio and its budget have a big influence on the main elements that directly influence box office revenue.
+  
 ![causal_diagram](https://user-images.githubusercontent.com/115152807/209399951-5634558c-3fd9-4aac-8331-5db2c97ae6bf.png)
 
 # <black> Conclusion
