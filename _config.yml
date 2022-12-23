@@ -15,7 +15,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "https://janepfl.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/datastory" # the subpath of your site, e.g. /blog
 
 title      : Does Diversity Pay Off?
 # email      : "" #this is also the email contact forms will go to
