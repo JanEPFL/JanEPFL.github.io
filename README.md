@@ -174,7 +174,7 @@ Talking about the most successful movies, it appears that male dominated casts t
   
 ![male_female_vs_box_office_regression](https://user-images.githubusercontent.com/115152807/209401566-6783d01a-8fa6-453d-91d9-372bbb6e409c.png)
   
-It is interesting to note that although this visualization shows a clear trend, other statistical visualizations such as the following paired test contradict these findings.
+It is interesting to note that although this visualization shows a clear trend, other statistical visualizations such as the following paired test contradict these findings, and shows that while it was significantly worse to have a higher female ratio before the 1950s, it has since become significantly positive in order to generate higher earnings to have a higher female ratio after 2010.
 For this reason, we must always be careful when presenting findings that look signifiant at first glance.
   
 ![female_ratios_differece](https://user-images.githubusercontent.com/115152807/209411333-20d3aa7a-da00-4f64-8a1a-d6a53c8fe431.png)
