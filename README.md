@@ -154,15 +154,14 @@ For ethnicities, there exist the following two categories:
   2) Not Hispanic or Latino
 
  
-TODO: Answer the question!
-
+###	<black> Did ethnical diversity in movies change over time?
   
-##	<black> Did ethnical diversity in movies change over time?
-The next plot shows the distribution of the races of all movie characters for each decade. As we can see, the vast majority of movie characters in every decade is white and the dominance of white characters has its peak in the 1950s. However, since then the share of Asian and especially Black or African American characters has increased. This implies that the cast of movies has become more diverse over time.
-  
-The following plots depict the distribution of the different ethnicities of the movie characters for the most successful movies from each decade in our dataset. In this case the most successful movies are defined as the ten movies with the highest box office revenue in the decade. It is clearly visible that the majority of the characters are white. To get more insights about the distribution of minorities, you can click in the subsequent plot on the white_ratio label to hide it. Than it is clearly visible, that the second most represented racial group is Black or African American.
+The following plots depict the distribution of the different ethnicities of the movie characters for the most successful movies from each decade in our dataset. In this case the most successful movies are defined as the ten movies with the highest box office revenue in the decade. As we can see, the vast majority of movie characters in every decade is white and the dominance of white characters has its peak in the 1950s. To get more insights about the distribution of minorities, you can click in the subsequent plot on the white_ratio label to hide it. Then it is clearly visible that the second most represented racial group is Black or African American. Since the 1970s, there appears to be an increase of the diversity among the minorities.
   
 {% include ethnicities_evolution.html %}
+
+The previous plot gave us an insight about ethnical diversity importance among the top movies of each decade, but what we really want to know is whether increasing diversity will lead to a box office revenue increase. We can show this with the following plot, showing ethnical diversity against box office revenue. The regression lines show that, while minor, an increased white people ratio will lead to a decrease in box office revenue while an increased black african american ratio will lead to an increase in box office revenue. From the lack of representation of the other ethnical minorities, it is harder to make a statement about their influence on the box office revenue.
+TODO: Add Colinßs new plot
 
 ##	<black> Did the gender ratio of the cast in movies change over time?
 The following plot demonstrates the gender distribution of the movie cast for each decade. As we can see, the distribution was nearly even in the 1910s and then changed in favor of a male superiority, which had its peak in the 1970s. Since then the share of female actors in the cast is slightly increasing. However, the distribution in the 2010s is still 2:1 in favor of males.
