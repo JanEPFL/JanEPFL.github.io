@@ -1,3 +1,8 @@
+---
+theme: jekyll-theme-cayman
+title: Does Diversity Pay Off?
+description: Examining the relation between characteristics of movies and their box office revenue with an emphasis on factors like diversity and gender
+---
 
 # What do these actors have in common?
 
