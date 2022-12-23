@@ -165,7 +165,7 @@ The following plot demonstrates the evolution of the age distribution of movie a
 ![Plot14](https://user-images.githubusercontent.com/115152807/209194265-a755cada-7575-4883-a730-7680ba750de2.png)
 
 # <black> (Discussion)
--> boundaries of our analysis
+![causal_diagram](https://user-images.githubusercontent.com/115152807/209399951-5634558c-3fd9-4aac-8331-5db2c97ae6bf.png)
 
 # <black> Conclusion
 -> summarize our findings
