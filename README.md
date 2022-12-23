@@ -1,4 +1,6 @@
+<span style="color:red">
 title: Does diversity pay off?
+</style>
 
 # What do these actors have in common?
 
