@@ -175,7 +175,7 @@ The following plot demonstrates the evolution of the age distribution of movie a
 -> summarize our findings
 
 # Now try it out yourself!
-[Play around with different movie features and see how they affect the box office!](https://matt989253-ada-2022-project-b0beast-website-0ywpoq.streamlit.app/)
+[Play around with different movie features and see how they affect the box office!](https://matt989253-ada-2022-project-b0b-machine-learning-website-tjfnoq.streamlit.app/)
   
 # <black> References
 [1] [https://en.wikipedia.org/wiki/Diversity_(politics)](https://en.wikipedia.org/wiki/Diversity_(politics))
