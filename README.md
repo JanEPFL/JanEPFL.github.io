@@ -171,13 +171,13 @@ The following plot demonstrates the evolution of the age distribution of movie a
 -> summarize our findings
 
 # <black> References
-[1] https://en.wikipedia.org/wiki/Diversity_(politics)
+[1] [https://en.wikipedia.org/wiki/Diversity_(politics)](https://en.wikipedia.org/wiki/Diversity_(politics))
 
-[2] https://en.wikipedia.org/wiki/Race_and_ethnicity_in_the_United_States
-
-[3]
+[2] [https://en.wikipedia.org/wiki/Race_and_ethnicity_in_the_United_States](https://en.wikipedia.org/wiki/Race_and_ethnicity_in_the_United_States)
 
 # <black> Roll the Credits!
-Written and directed by b0bEast (Colin Pelletier, Matthieu Burguburu, Hendrik Schillinger & Jan Henke) 
-This project was conducted as part of the course Applied Data Analysis (CS-401) at EPFL in Fall 2022.
-The corresponding GitHub repository can be found [here](https://github.com/epfl-ada/ada-2022-project-b0beast).
+Written and directed by b0bEast (Colin Pelletier, Matthieu Burguburu, Hendrik Schillinger & Jan Henke)
+  
+Produced as part of the course Applied Data Analysis (CS-401) at EPFL in Fall 2022
+  
+The script can be found [here](https://github.com/epfl-ada/ada-2022-project-b0beast)
