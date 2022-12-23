@@ -6,13 +6,7 @@ white { color: black }
 </style>
 <white> title: Does diversity pay off?</white>
 
-
-
-
-
-
-
-<black> # Let's play a little game! </black
+# <black> Let's play a little game! </black
 ## Try to find matching pairs of the nominees for the acting academy award of 2016!
   
   <title>Memory Game</title>
