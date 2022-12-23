@@ -91,7 +91,7 @@ Diversity is one of the most controversial topics of our time. However, the disc
 
 # <black> This leads us to our research questions...
 
-## <black> Lets talk about money:
+## <black> Let's talk about money:
 In this paragraph we examine general changes regarding the movie industry over time.
 The following plot shows that the actual value of 1 US-dollar changed dramatically between 1900 and 2022. Therefore, we have to take inflation into account, to be able to compare the movie box offices across different decades.
   
@@ -123,15 +123,15 @@ As we can see in the plots below, other variables like gender, actor ethnicities
   
 ![16 plots](https://user-images.githubusercontent.com/115152807/209405126-55eea8d0-5e93-4aea-9c37-47318969b296.png)
 
-Another important movie characteristic is the genre. Over time the distribution of the most popular genres changed.
+Another important movie characteristic is the genre. Over the decades the distribution of the most popular genres changed.
   
 {% include box_office_genre_evolution.html %}
 
-## <black> Lets talk about diversity:
+## <black> Let's talk about diversity:
 First we have to clarify here, what diversity is. Wikipedia says that "Diversity as seen in sociology and political studies is the degree of differences in identifying features among the members of a purposefully defined group, such as any group differences in racial or ethnic classifications, age, gender, religion, philosophy, physical abilities, socioeconomic background, sexual orientation, gender identity, intelligence, mental health, physical health, genetic attributes, personality, behavior or attractiveness" [1]. In our analysis we focus on racial and ethnic classsifications, gender, and age. 
 
 ##	<black> Does ethnical diversity correlate with the box office revenue?
-In order to answer this question, we have to clarify how we confine different races and ethnicities. Since we examine only US-american movies, we adapt the racial and ethnical categories of the US census [2].
+In order to answer this question, we have to clarify first how we confine different races and ethnicities. Since we examine only US-american movies, we adapt the racial and ethnical categories of the US census [2].
 
 Following this definition, there exist the six following racial categories: 
 
@@ -153,37 +153,27 @@ For ethnicities, there exist the following two categories:
 
   2) Not Hispanic or Latino
 
-The following plot depicts the distribution of the different ethnicities of the movie characters in our dataset. It is clearly visible that the majority of the characters are white.
-  
-{% include ethnicities_evolution.html %}
-  
-{% include ethnicities_radar_chart.html %}
-  
-![Plot10](https://user-images.githubusercontent.com/115152807/209190539-a0584b66-48ff-43be-89b0-2d11be17eb32.png)
+ 
+TODO: Answer the question!
+
   
 ##	<black> Did ethnical diversity in movies change over time?
 The next plot shows the distribution of the races of all movie characters for each decade. As we can see, the vast majority of movie characters in every decade is white and the dominance of white characters has its peak in the 1950s. However, since then the share of Asian and especially Black or African American characters has increased. This implies that the cast of movies has become more diverse over time.
   
-![Plot11](https://user-images.githubusercontent.com/115152807/209192030-38489df2-2862-4316-8469-7fa7be316b8e.png)
+The following plots depict the distribution of the different ethnicities of the movie characters for the most successful movies from each decade in our dataset. In this case the most successful movies are defined as the ten movies with the highest box office revenue in the decade. It is clearly visible that the majority of the characters are white. To get more insights about the distribution of minorities, you can click in the subsequent plot on the white_ratio label to hide it. Than it is clearly visible, that the second most represented racial group is Black or African American.
+  
+{% include ethnicities_evolution.html %}
 
 ##	<black> Did the gender ratio of the cast in movies change over time?
 The following plot demonstrates the gender distribution of the movie cast for each decade. As we can see, the distribution was nearly even in the 1910s and then changed in favor of a male superiority, which had its peak in the 1970s. Since then the share of female actors in the cast is slightly increasing. However, the distribution in the 2010s is still 2:1 in favor of males.
-  
-![Plot12](https://user-images.githubusercontent.com/115152807/209193221-4388528e-38ed-4aa5-a18f-9b0e48a70b19.png)
-  
-![Plot13](https://user-images.githubusercontent.com/115152807/209194110-2c4fa8d9-7e0c-41c1-809d-a2a048ac2738.png)
-  
-![male_female_vs_box_office](https://user-images.githubusercontent.com/115152807/209372441-1321b2a3-3d48-427d-b331-fb755aaacad8.png)
-  
-![male_female_vs_box_office_regression](https://user-images.githubusercontent.com/115152807/209372442-8876757f-b5e7-431c-bdb9-aa0801d3a798.png)
-  
+    
+![gender ratio evolution](https://user-images.githubusercontent.com/115152807/209194110-2c4fa8d9-7e0c-41c1-809d-a2a048ac2738.png)
+      
 ![male_female_vs_box_office_regression](https://user-images.githubusercontent.com/115152807/209401566-6783d01a-8fa6-453d-91d9-372bbb6e409c.png)
 
 ## <black> Did the age distribution of men and women of the cast in movies change over time?
 The following plot demonstrates the evolution of the age distribution of movie actors over the decades. As we can see, in the 1940s the group of actors, who were in their 30s was by far the biggest group. Since then,their share decreased steadily over each decade and in the 2010s the age distribution is more equally distributed than ever before. Therefore, we can conclude that in the regard of age, diversity increased over time.
   
-![Plot14](https://user-images.githubusercontent.com/115152807/209194265-a755cada-7575-4883-a730-7680ba750de2.png)
-
 {% include age_evolution.html %}
   
 # <black> (Discussion)
@@ -192,7 +182,7 @@ The following plot demonstrates the evolution of the age distribution of movie a
 # <black> Conclusion
 -> summarize our findings
 
-# Now try it out yourself!
+# <black> Now try it out yourself!
 [Play around with different movie features and see how they affect the box office!](https://matt989253-ada-2022-project-b0b-machine-learning-website-tjfnoq.streamlit.app/)
   
 # <black> References
