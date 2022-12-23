@@ -121,10 +121,10 @@ It seems logical that the box office revenue is correlated with many characteris
  
 As we can see in the plots below, other variables like gender, actor ethnicities etc. seem to have an influence on the box office revenue as well, which we will explore in more detail in the rest of this datastory.
   
-![output22](https://user-images.githubusercontent.com/115152807/209405126-55eea8d0-5e93-4aea-9c37-47318969b296.png)
+![16 plots](https://user-images.githubusercontent.com/115152807/209405126-55eea8d0-5e93-4aea-9c37-47318969b296.png)
 
-## <black> How did the distribution of the most popular genres changed over time?
-
+Another important movie characteristic is the genre. Over time the distribution of the most popular genres changed.
+  
 {% include box_office_genre_evolution.html %}
 
 ## <black> Lets talk about diversity:
