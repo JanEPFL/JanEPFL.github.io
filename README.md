@@ -153,6 +153,7 @@ For ethnicities, there exist the following two categories:
 
   2) Not Hispanic or Latino
 
+To avoid sparsity of data, we neglect the differentiation between the different ethnicities (Hispanic or Latino and Not Hispanic or Latino). At this point, we would like to mention that throughout this datastory we use the term "ethnicity" instead of the US-american term "race".
  
 ##	<black> Did ethnical diversity in movies change over time?
   
