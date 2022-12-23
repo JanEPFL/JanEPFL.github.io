@@ -94,28 +94,39 @@ Diversity is one of the most controversial topics of our time. However, the disc
 ## <black> Lets talk about money:
 In this paragraph we examine general changes regarding the movie industry over time.
 The following plot shows that the actual value of 1 US-dollar changed dramatically between 1900 and 2022. Therefore, we have to take inflation into account, to be able to compare the movie box offices across different decades.
+  
 ![Plot 1](https://user-images.githubusercontent.com/115152807/209177949-5a73702e-4890-4ad2-9b06-ec33899c320f.png)
 
 With the inflation adjusted box office revenue shown in the next plot, it can be seen that the rise of revenue over time is not as significant as it initially seems.
+  
 {% include box_office_evolution.html %}
 
 In the subsequent plots, we can also see that the budget of movies has increased over time. Compared to the box office revenue, we can see that the budget is increasing faster, which implies that the ratio between budget and revenue is actually slightly decreasing.
+  
 ![average_budget](https://user-images.githubusercontent.com/115152807/209404178-87e0dcbd-6517-439a-9780-43892b49c910.png)
+  
 ![maximum_budget](https://user-images.githubusercontent.com/115152807/209404176-677afa79-6d02-4d19-b009-960e62af5620.png)
 
 Another interesting question would be how big the share of really sucessful movies is compared to the overall number of movies. The following plot delivers the answer and shows that the vast majority of released movies do not generate a huge amount of box office revenue.
-![Plot 6](https://user-images.githubusercontent.com/115152807/209185289-29440889-5ec5-4f8e-807b-8f1717a29388.png)
+  
+![box_office_distribution](https://user-images.githubusercontent.com/115152807/209185289-29440889-5ec5-4f8e-807b-8f1717a29388.png)
+  
 The number of movie releases increased drastically in the last 100 years as depicted in the following plot. This implies that the movie industry is a growing market.
-![Plot 7](https://user-images.githubusercontent.com/115152807/209181308-758de80c-eceb-40a5-b887-de69bc6b4421.png)
+  
+![number_of_movies](https://user-images.githubusercontent.com/115152807/209181308-758de80c-eceb-40a5-b887-de69bc6b4421.png)
 
 ##	<black> Which characteristics of movies are correlated with the movie box office revenue?
 TODO: Following paragraph needs Update!
 As we can see in the plot below, the box office revenue correlates with the budget of the movie. A higher budget tends to lead to a higher gross. We can also see that the public perception of a movie which is getting represented through the TMDB vote counts and vote averages slightly correlates with the box office. This implies that a movie which is getting perceived as a good movie is making more money than a movie which is getting perceived as a bad movie. The runtime on the other hand does not seem to have an influence on the financial success of a movie.
+  
 ![Plot 8](https://user-images.githubusercontent.com/115152807/209186176-9e28bcdb-5e37-4cae-8b1d-bfe2af0cdea2.png)
+  
 The plot below shows that...
+  
 ![Plot 9](https://user-images.githubusercontent.com/115152807/209186298-721c7829-4484-48cc-b2ba-9a9cdda08207.png)
 
 ![male_female_vs_box_office](https://user-images.githubusercontent.com/115152807/209372441-1321b2a3-3d48-427d-b331-fb755aaacad8.png)
+  
 ![male_female_vs_box_office_regression](https://user-images.githubusercontent.com/115152807/209372442-8876757f-b5e7-431c-bdb9-aa0801d3a798.png)
 
 
@@ -150,21 +161,30 @@ For ethnicities, there exist the following two categories:
   2) Not Hispanic or Latino
 
 The following plot depicts the distribution of the different ethnicities of the movie characters in our dataset. It is clearly visible that the majority of the characters are white.
+  
 {% include ethnicities_evolution.html %}
+  
 {% include ethnicities_radar_chart.html %}
+  
 ![Plot10](https://user-images.githubusercontent.com/115152807/209190539-a0584b66-48ff-43be-89b0-2d11be17eb32.png)
+  
 ##	<black> Did ethnical diversity in movies change over time?
 The next plot shows the distribution of the races of all movie characters for each decade. As we can see, the vast majority of movie characters in every decade is white and the dominance of white characters has its peak in the 1950s. However, since then the share of Asian and especially Black or African American characters has increased. This implies that the cast of movies has become more diverse over time.
+  
 ![Plot11](https://user-images.githubusercontent.com/115152807/209192030-38489df2-2862-4316-8469-7fa7be316b8e.png)
 
 ##	<black> Did the gender ratio of the cast in movies change over time?
 The following plot demonstrates the gender distribution of the movie cast for each decade. As we can see, the distribution was nearly even in the 1910s and then changed in favor of a male superiority, which had its peak in the 1970s. Since then the share of female actors in the cast is slightly increasing. However, the distribution in the 2010s is still 2:1 in favor of males.
+  
 ![Plot12](https://user-images.githubusercontent.com/115152807/209193221-4388528e-38ed-4aa5-a18f-9b0e48a70b19.png)
+  
 ![Plot13](https://user-images.githubusercontent.com/115152807/209194110-2c4fa8d9-7e0c-41c1-809d-a2a048ac2738.png)
+  
 ![male_female_vs_box_office_regression](https://user-images.githubusercontent.com/115152807/209401566-6783d01a-8fa6-453d-91d9-372bbb6e409c.png)
 
 ## <black> Did the age distribution of men and women of the cast in movies change over time?
 The following plot demonstrates the evolution of the age distribution of movie actors over the decades. As we can see, in the 1940s the group of actors, who were in their 30s was by far the biggest group. Since then,their share decreased steadily over each decade and in the 2010s the age distribution is more equally distributed than ever before. Therefore, we can conclude that in the regard of age, diversity increased over time.
+  
 ![Plot14](https://user-images.githubusercontent.com/115152807/209194265-a755cada-7575-4883-a730-7680ba750de2.png)
 
 {% include age_evolution.html %}
