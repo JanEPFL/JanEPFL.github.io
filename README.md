@@ -23,7 +23,7 @@ The following plot shows that the actual value of 1 US-dollar changed dramatical
 As we can see in the following two plots, even without inflation, the average movie box office revenue as well as the maximum movie box office increased in the last 100 years. This implies that movies are getting more popular and more successful over time.
 ![Plot 2](https://user-images.githubusercontent.com/115152807/209178710-2f249046-6815-4067-9520-86217c420ffd.png)
 ![Plot 3](https://user-images.githubusercontent.com/115152807/209178721-97e6d243-7740-486d-9794-6be34d165d8d.png)
-In the following two plots we can also see that the budget of movies also increased over time and that the ascent is even more steep than the ascent of the box office revenue. This implies that the movies are getting more expensive over time and the ratio between budget and revenue is actually slightly decreasing.
+In the subsequent two plots we can also see that the budget of movies also increased over time and that the ascent is even more steep than the ascent of the box office revenue. This implies that the movies are getting more expensive over time and the ratio between budget and revenue is actually slightly decreasing.
 ![Plot 4](https://user-images.githubusercontent.com/115152807/209180362-2b5e1b7c-1443-4f84-a45d-0ed5a31b3f81.png)
 ![Plot 5](https://user-images.githubusercontent.com/115152807/209180368-b18c693f-649e-4aca-93e0-88fb5cb4a354.png)
 Another interesting question would be how big the share of really sucessful movies is compared to the overall number of movies. The following plot delivers the answer and shows that the vast majority of released movies do not generate a huge amount of box office revenue.
@@ -32,7 +32,7 @@ The number of movie releases increased drastically in the last 100 years as depi
 ![Plot 7](https://user-images.githubusercontent.com/115152807/209181308-758de80c-eceb-40a5-b887-de69bc6b4421.png)
 ##	Which characteristics of movies are correlated with the movie box office revenue?
 TODO: Following paragraph needs Update!
-As we can see in the plot above, the box office revenue correlates with the budget of the movie. A higher budget tends to lead to a higher gross. We can also see that the public perception of a movie which is getting represented through the TMDB vote counts and vote averages slightly correlates with the box office. This implies that a movie which is getting perceived as a good movie is making more money than a movie which is getting perceived as a bad movie. The runtime on the other hand does not seem to have an influence on the financial success of a movie.
+As we can see in the plot below, the box office revenue correlates with the budget of the movie. A higher budget tends to lead to a higher gross. We can also see that the public perception of a movie which is getting represented through the TMDB vote counts and vote averages slightly correlates with the box office. This implies that a movie which is getting perceived as a good movie is making more money than a movie which is getting perceived as a bad movie. The runtime on the other hand does not seem to have an influence on the financial success of a movie.
 ![Plot 8](https://user-images.githubusercontent.com/115152807/209186176-9e28bcdb-5e37-4cae-8b1d-bfe2af0cdea2.png)
 
 The plot below shows that...
@@ -43,7 +43,7 @@ First we have to clarify here, what diversity is. Wikipedia says that "Diversity
 ##	Does ethnical diversity correlate with the box office revenue?
 In order to answer this question, we have to clarify how we confine different races and ethnicities. Since we examine only US-american movies, we adapt the racial and ethnical categories of the US census [2].
 
-After this definition, there exist the six following racial categories: 
+Following this definition, there exist the six following racial categories: 
 1) White
 2) Black or African American
 3) Asian
@@ -57,16 +57,16 @@ For ethnicities, there exist the following two categories:
 
 The following plot depicts the distribution of the different ethnicities of the movie characters in our dataset. It is clearly visible that the majority of the characters are white.
 ![Plot10](https://user-images.githubusercontent.com/115152807/209190539-a0584b66-48ff-43be-89b0-2d11be17eb32.png)
-##	Did ethnical diversity in (successful) movies change over time?
-The following plot shows the distribution of the races of all movie characters for each decade. As we can see, the vast majority of movie characters in every decade is white and the dominance of white characters has its peak in the 1950s. However, since then the share of Asian and especially Black or African American characters has increased. This implies that the cast of movies has become more diverse over time.
+##	Did ethnical diversity in movies change over time?
+The next plot shows the distribution of the races of all movie characters for each decade. As we can see, the vast majority of movie characters in every decade is white and the dominance of white characters has its peak in the 1950s. However, since then the share of Asian and especially Black or African American characters has increased. This implies that the cast of movies has become more diverse over time.
 ![Plot11](https://user-images.githubusercontent.com/115152807/209192030-38489df2-2862-4316-8469-7fa7be316b8e.png)
 
-##	Did the gender ratio of the cast in (successful) movies change over time?
+##	Did the gender ratio of the cast in movies change over time?
 The following plot demonstrates the gender distribution of the movie cast for each decade. As we can see, the distribution was nearly even in the 1910s and then changed in favor of a male superiority, which had its peak in the 1970s. Since then the share of female actors in the cast is slightly increasing. However, the distribution in the 2010s is still 2:1 in favor of males.
 ![Plot12](https://user-images.githubusercontent.com/115152807/209193221-4388528e-38ed-4aa5-a18f-9b0e48a70b19.png)
 ![Plot13](https://user-images.githubusercontent.com/115152807/209194110-2c4fa8d9-7e0c-41c1-809d-a2a048ac2738.png)
 
-## Did the age distribution of men and women of the cast in (successful) movies change over time?
+## Did the age distribution of men and women of the cast in movies change over time?
 The following plot demonstrates the evolution of the age distribution of movie actors over the decades. As we can see, in the 1940s the group of actors, who were in their 30s was by far the biggest group. Since then,their share decreased steadily over each decade and in the 2010s the age distribution is more equally distributed than ever before. Therefore, we can conclude that in the regard of age, diversity increased over time.
 ![Plot14](https://user-images.githubusercontent.com/115152807/209194265-a755cada-7575-4883-a730-7680ba750de2.png)
 
@@ -78,7 +78,9 @@ The following plot demonstrates the evolution of the age distribution of movie a
 
 # References
 [1] https://en.wikipedia.org/wiki/Diversity_(politics)
+
 [2] https://en.wikipedia.org/wiki/Race_and_ethnicity_in_the_United_States
+
 [3]
 
 # Who did what?
