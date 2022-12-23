@@ -1,5 +1,3 @@
---- layout: default —
-...
 <style>
 black { color: black }
 </style>
