@@ -177,7 +177,7 @@ The following plot demonstrates the evolution of the age distribution of movie a
 [2] [https://en.wikipedia.org/wiki/Race_and_ethnicity_in_the_United_States](https://en.wikipedia.org/wiki/Race_and_ethnicity_in_the_United_States)
 
 # <black> Roll the Credits!
-Written and directed by b0bEast (Colin Pelletier, Matthieu Burguburu, Jan Henke & Hendrik Schillinger)
+Written and directed by b0bEast (Colin Pelletier, Matthieu Burguburu, Jan Henke, Hendrik Schillinger)
   
 Produced as part of the course Applied Data Analysis (CS-401) at EPFL in Fall 2022
   
