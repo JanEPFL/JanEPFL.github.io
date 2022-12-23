@@ -2,16 +2,10 @@
 white { color: white }
 black { color: black }
 </style>
-
 <white> title: Does diversity pay off?</white>
-
-# <black> Let's play a little game!
-## <black> Try to find matching pairs of the nominees for the acting academy award of 2016!
-  
+# <black> Let's play a little game! Try to find matching pairs of the nominees for the acting academy award of 2016!
   <title>Memory Game</title>
-
   <link rel="stylesheet" href="styles.css">
-
   <section class="memory-game">
     <div class="memory-card" data-framework="male">
       <img class="front-face" src="img/oscar-nominees_0000_Layer-2.png" alt="M1" />
@@ -43,51 +37,38 @@ black { color: black }
     </div>  <div class="memory-card" data-framework="male">
       <img class="front-face" src="img/oscar-nominees_0014_Layer-16.png" alt="M10" />
       <img class="back-face" src="img/dlab.svg" alt="dlab" />
-
-
     </div>  <div class="memory-card" data-framework="female">
       <img class="front-face" src="img/oscar-nominees_0005_Layer-7.png" alt="F1" />
       <img class="back-face" src="img/dlab.svg" alt="dlab" />
-
     </div>  <div class="memory-card" data-framework="female">
       <img class="front-face" src="img/oscar-nominees_0006_Layer-8.png" alt="F2" />
       <img class="back-face" src="img/dlab.svg" alt="dlab" />
-
     </div>  <div class="memory-card" data-framework="female">
       <img class="front-face" src="img/oscar-nominees_0007_Layer-9.png" alt="F3" />
       <img class="back-face" src="img/dlab.svg" alt="dlab" />
-
     </div>  <div class="memory-card" data-framework="female">
       <img class="front-face" src="img/oscar-nominees_0008_Layer-10.png" alt="F4" />
       <img class="back-face" src="img/dlab.svg" alt="dlab" />
-
     </div>  <div class="memory-card" data-framework="female">
       <img class="front-face" src="img/oscar-nominees_0009_Layer-11.png" alt="F5" />
       <img class="back-face" src="img/dlab.svg" alt="dlab" />
-
     </div>  <div class="memory-card" data-framework="female">
       <img class="front-face" src="img/oscar-nominees_0015_Layer-17.png" alt="F6" />
       <img class="back-face" src="img/dlab.svg" alt="dlab" />
-    
     </div>  <div class="memory-card" data-framework="female">
       <img class="front-face" src="img/oscar-nominees_0016_Layer-18.png" alt="F7" />
       <img class="back-face" src="img/dlab.svg" alt="dlab" />
-
     </div>  <div class="memory-card" data-framework="female">
       <img class="front-face" src="img/oscar-nominees_0017_Layer-19.png" alt="F8" />
       <img class="back-face" src="img/dlab.svg" alt="dlab" />
-
     </div>  <div class="memory-card" data-framework="female">
       <img class="front-face" src="img/oscar-nominees_0018_Layer-20.png" alt="F9" />
       <img class="back-face" src="img/dlab.svg" alt="dlab" />
-
     </div>  <div class="memory-card" data-framework="female">
       <img class="front-face" src="img/oscar-nominees_0019_Layer-21.png" alt="F10" />
       <img class="back-face" src="img/dlab.svg" alt="dlab" />
-
     </div>
   </section>
-
   <script src="scripts.js"></script>
 
 # <black> Why was this so easy?
