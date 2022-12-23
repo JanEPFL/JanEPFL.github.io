@@ -42,6 +42,7 @@ The plot below shows that...
 First we have to clarify here, what diversity is. Wikipedia says that "Diversity as seen in sociology and political studies is the degree of differences in identifying features among the members of a purposefully defined group, such as any group differences in racial or ethnic classifications, age, gender, religion, philosophy, physical abilities, socioeconomic background, sexual orientation, gender identity, intelligence, mental health, physical health, genetic attributes, personality, behavior or attractiveness" [1]. In our analysis we focus on racial and ethnic classsifications, gender, and age. 
 ##	Does ethnical diversity correlate with the box office revenue?
 In order to answer this question, we have to clarify how we confine different races and ethnicities. Since we examine only US-american movies, we adapt the racial and ethnical categories of the US census [2].
+
 After this definition, there exist the six following racial categories: 
 1) White
 2) Black or African American
