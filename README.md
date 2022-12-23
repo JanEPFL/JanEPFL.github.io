@@ -1,10 +1,10 @@
 <style>
 red { color: red }
-white { color: yellow }
+white { color: white }
 </style>
 
 <red> title: Does diversity pay off?</red>
-<yellow> title: Does diversity pay off?</yellow>
+<white> title: Does diversity pay off?</white>
 
 # What do these actors have in common?
 
