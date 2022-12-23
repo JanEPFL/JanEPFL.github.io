@@ -160,11 +160,14 @@ The next plot shows the distribution of the races of all movie characters for ea
 The following plot demonstrates the gender distribution of the movie cast for each decade. As we can see, the distribution was nearly even in the 1910s and then changed in favor of a male superiority, which had its peak in the 1970s. Since then the share of female actors in the cast is slightly increasing. However, the distribution in the 2010s is still 2:1 in favor of males.
 ![Plot12](https://user-images.githubusercontent.com/115152807/209193221-4388528e-38ed-4aa5-a18f-9b0e48a70b19.png)
 ![Plot13](https://user-images.githubusercontent.com/115152807/209194110-2c4fa8d9-7e0c-41c1-809d-a2a048ac2738.png)
+![male_female_vs_box_office_regression](https://user-images.githubusercontent.com/115152807/209401566-6783d01a-8fa6-453d-91d9-372bbb6e409c.png)
 
 ## <black> Did the age distribution of men and women of the cast in movies change over time?
 The following plot demonstrates the evolution of the age distribution of movie actors over the decades. As we can see, in the 1940s the group of actors, who were in their 30s was by far the biggest group. Since then,their share decreased steadily over each decade and in the 2010s the age distribution is more equally distributed than ever before. Therefore, we can conclude that in the regard of age, diversity increased over time.
 ![Plot14](https://user-images.githubusercontent.com/115152807/209194265-a755cada-7575-4883-a730-7680ba750de2.png)
 
+{% include age_evolution.html %}
+  
 # <black> (Discussion)
 ![causal_diagram](https://user-images.githubusercontent.com/115152807/209399951-5634558c-3fd9-4aac-8331-5db2c97ae6bf.png)
 
