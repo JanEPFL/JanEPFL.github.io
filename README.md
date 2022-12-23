@@ -3,7 +3,8 @@ white { color: white }
 </style>
 <white> title: Does diversity pay off?</white>
 
-# What do these actors have in common?
+# Let's play a little game! 
+## Try to find matching pairs of the nominees for the acting academy award of 2016!
   
   <title>Memory Game</title>
 
@@ -87,8 +88,9 @@ white { color: white }
 
   <script src="scripts.js"></script>
 
+# Why was this so easy?
 
-# They were the nominees for the acting academy award of 2016 and they are all white.
+## Because all the nominees for the acting academy award of 2016 were white.
 
 
 # So what is this about?
