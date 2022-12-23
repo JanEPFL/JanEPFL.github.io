@@ -5,14 +5,14 @@
   }
   
   body {
-    height: 100vh;
+    height: 200vh;
     display: flex;
     background: #0609b200;
   }
   
   .memory-game {
-    width: 640px;
-    height: 640px;
+    width: 1000px;
+    height: 1000px;
     margin: auto;
     display: flex;
     flex-wrap: wrap;
