@@ -184,14 +184,16 @@ The following plot demonstrates the evolution of the age distribution of movie a
   
 {% include age_evolution.html %}
   
-# <black> (Discussion)
+# <black> Discussion
+Although we showed some trends indicating that diversity may sometimes be beneficial, there are any more confounders influencing box office revenue. Below we present a causal diagram we believe represents a good part of these confounders. In general, the movie studio and its budget have a big influence on the main elements that directly influence box office revenue.
 ![causal_diagram](https://user-images.githubusercontent.com/115152807/209399951-5634558c-3fd9-4aac-8331-5db2c97ae6bf.png)
 
 # <black> Conclusion
--> summarize our findings
+Does diversity pay off? 
+We would say yes, especially in more recent times where people have become more aware of the importance of diversity in a more general way. Diversity in the context of ethnicities and age seems to be improving. However, there are still further improvements to be made, especially in the context of diverse gender representation. 
 
 # <black> Now try it out yourself!
-[Play around with different movie features and see how they affect the box office!](https://matt989253-ada-2022-project-b0b-machine-learning-website-tjfnoq.streamlit.app/)
+[Play around with different movie characteristics and see how they affect the box office!](https://matt989253-ada-2022-project-b0b-machine-learning-website-tjfnoq.streamlit.app/)
   
 # <black> References
 [1] [https://en.wikipedia.org/wiki/Diversity_(politics)](https://en.wikipedia.org/wiki/Diversity_(politics))
