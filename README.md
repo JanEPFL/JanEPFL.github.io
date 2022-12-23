@@ -5,29 +5,28 @@
 ## They won an academy award in 2015 and they are all white.
 
 # So what is this about?
-After in 2015 all 20 oscar acting nominations were awarded to white people, the #OscarsSoWhite hastag, criticising the lack of diveristy in the film industry, went viral. But should the film industry comply with these demands purely for ethical reasons, or does the film industry benefit from a more diverse cast also from a capitalistical standpoint? To investigate whether a more diverse cast attracts a larger audience and thus achieves more financial success, we examine the box office revenue of the films in the ["CMU Movie Summary Corpus"](http://www.cs.cmu.edu/~ark/personas/) dataset. To avoid sparsity of data and to add further interesting features that go beyond the CMU dataset, we also add the ["The Movies Dataset"](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset). As a measure of diversity, we focus mainly on ethnicity, gender, and age. In particular, we are interested in whether moviegoers' acceptance or rejection for movies with a more diverse cast has changed over the last 100 years. Since movies produced in the US have the biggest audience and make by far the most money, we'll restrict our analysis on these movies.
+After in 2015 all 20 oscar acting nominations were awarded to white people, the #OscarsSoWhite hastag, criticising the lack of diversity in the film industry, went viral. But should the film industry comply with these demands purely for ethical reasons, or does the film industry benefit from a more diverse cast also from a capitalistical point of view? To investigate whether a more diverse cast attracts a larger audience and thus achieves more financial success, we examine the box office revenue of the films in the ["CMU Movie Summary Corpus"](http://www.cs.cmu.edu/~ark/personas/) dataset. To avoid sparsity of data and to add further interesting features that go beyond the CMU dataset, we also add the ["The Movies Dataset"](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset). As a measure of diversity, we focus mainly on ethnicity, gender, and age. In particular, we are interested in whether moviegoers' acceptance or rejection for movies with a more diverse cast has changed over the last 100 years. Since movies produced in the US have the biggest audience and make by far the most money, we'll restrict our analysis on those movies.
 
 # And why should we care?
 ## 1) Financial reasons
 The movie business is a multi-billion-dollar industry, therefore it would be very beneficial to know what sells and what does not. 
 
 ## 2) Societal relevance
-Diversity is one of the most controversial topics of our time. However the discussions about this are mostly based on subjective feelings and impressions. An analysis based on data should lead to a more objective assessment of this contentious subject. And since movies can be seen as a reflection of their time, the results of our analysis could act as an indicator for changes and advancements in society over time.
+Diversity is one of the most controversial topics of our time. However, the discussions about this are mostly based on feelings and subjective impressions. An analysis based on data should lead to a more objective assessment of this contentious subject. And since movies can be seen as a reflection of their time, the results of our analysis could act as an indicator for changes and advancements in society over time.
 
 # This leads us to our research questions...
 
 ## Lets talk about money:
-## How did the movie industry change over time in general?
-In the this paragraph we examine how the movie industry changed over time in general.
-To be able to compare the movie box offices over time, we have to take inflation into account. The following plot shows that the actual value of 1 US-dollar changed dramatically between 1900 and 2022.
+In this paragraph we examine general changes regarding the movie industry over time.
+The following plot shows that the actual value of 1 US-dollar changed dramatically between 1900 and 2022. Therefore, we have to take inflation into account, to be able to compare the movie box offices across different decades.
 ![Plot 1](https://user-images.githubusercontent.com/115152807/209177949-5a73702e-4890-4ad2-9b06-ec33899c320f.png)
-As we can see in the following two plots, even without inflation the average movie box office revenue as well as the maximum movie box office increased in the last 100 years. This implies that movies are getting more popular and more successful over time.
+As we can see in the following two plots, even without inflation, the average movie box office revenue as well as the maximum movie box office increased in the last 100 years. This implies that movies are getting more popular and more successful over time.
 ![Plot 2](https://user-images.githubusercontent.com/115152807/209178710-2f249046-6815-4067-9520-86217c420ffd.png)
 ![Plot 3](https://user-images.githubusercontent.com/115152807/209178721-97e6d243-7740-486d-9794-6be34d165d8d.png)
 In the following two plots we can also see that the budget of movies also increased over time and that the ascent is even more steep than the ascent of the box office revenue. This implies that the movies are getting more expensive over time and the ratio between budget and revenue is actually slightly decreasing.
 ![Plot 4](https://user-images.githubusercontent.com/115152807/209180362-2b5e1b7c-1443-4f84-a45d-0ed5a31b3f81.png)
 ![Plot 5](https://user-images.githubusercontent.com/115152807/209180368-b18c693f-649e-4aca-93e0-88fb5cb4a354.png)
-Another interesting question would be how big the share of really sucessful movies is compared to the overall number of movies. The following plot delivers the answer and shows that the majority of released movies do not generate a huge amount of box office revenue.
+Another interesting question would be how big the share of really sucessful movies is compared to the overall number of movies. The following plot delivers the answer and shows that the vast majority of released movies do not generate a huge amount of box office revenue.
 ![Plot 6](https://user-images.githubusercontent.com/115152807/209185289-29440889-5ec5-4f8e-807b-8f1717a29388.png)
 The number of movie releases increased drastically in the last 100 years as depicted in the following plot. This implies that the movie industry is a growing market.
 ![Plot 7](https://user-images.githubusercontent.com/115152807/209181308-758de80c-eceb-40a5-b887-de69bc6b4421.png)
