@@ -163,15 +163,23 @@ The following plots depict the distribution of the different ethnicities of the 
 The previous plot gave us an insight about ethnical diversity importance among the top movies of each decade, but what we really want to know is whether increasing diversity will lead to a box office revenue increase. We can show this with the following plot, showing ethnical diversity against box office revenue. The regression lines show that, while minor, an increased white people ratio will lead to a decrease in box office revenue while an increased black african american ratio will lead to an increase in box office revenue. From the lack of representation of the other ethnical minorities, it is harder to make a statement about their influence on the box office revenue.
 TODO: Add Colinßs new plot
 
-##	<black> Did the gender ratio of the cast in movies change over time?
+###	<black> Did the gender ratio of the cast in movies change over time?
 The following plot demonstrates the gender distribution of the movie cast for each decade. As we can see, the distribution was nearly even in the 1910s and then changed in favor of a male superiority, which had its peak in the 1970s. Since then the share of female actors in the cast is slightly increasing. However, the distribution in the 2010s is still 2:1 in favor of males.
     
 ![gender ratio evolution](https://user-images.githubusercontent.com/115152807/209194110-2c4fa8d9-7e0c-41c1-809d-a2a048ac2738.png)
-      
-![male_female_vs_box_office_regression](https://user-images.githubusercontent.com/115152807/209401566-6783d01a-8fa6-453d-91d9-372bbb6e409c.png)
 
-## <black> Did the age distribution of men and women of the cast in movies change over time?
-The following plot demonstrates the evolution of the age distribution of movie actors over the decades. As we can see, in the 1940s the group of actors, who were in their 30s was by far the biggest group. Since then,their share decreased steadily over each decade and in the 2010s the age distribution is more equally distributed than ever before. Therefore, we can conclude that in the regard of age, diversity increased over time.
+ ### But what about the influence of the gender ratios on revenue? 
+Talking about the most successful movies, it appears that male dominated casts tend to generate slightly more box office revenue compared to female dominated casts. The regression plot below illustrates this fact.
+  
+![male_female_vs_box_office_regression](https://user-images.githubusercontent.com/115152807/209401566-6783d01a-8fa6-453d-91d9-372bbb6e409c.png)
+  
+It is interesting to note that although this visualization shows a clear trend, other statistical visualizations such as the following paired test contradict these findings.
+For this reason, we must always be careful when presenting findings that look signifiant at first glance.
+  
+TODO: Insert Hendriks AB-test
+
+## <black> Did the age distribution of actors in movies change over time?
+The following plot demonstrates the evolution of the age distribution of movie actors over the decades. As we can see, in the early 1900s, it seems actors were mostly young early adopters. The mean of actors then steadily increase with time, as if the same group of actors grew together. New young actors joining in may be the reason that the mean increase is not quite linear. Since the 1960, the age distribution has stopped going up and seems to have stabilized. Therefore, we can conclude that in the regard of age, diversity increased over time.
   
 {% include age_evolution.html %}
   
