@@ -5,7 +5,91 @@ white { color: white }
 
 # What do these actors have in common?
 
-{% include memory_game/index.html %}
+
+
+  <title>Memory Game</title>
+
+  <link rel="stylesheet" href="styles.css">
+
+  <section class="memory-game">
+    <div class="memory-card" data-framework="male">
+      <img class="front-face" src="img/oscar-nominees_0000_Layer-2.png" alt="M1" />
+      <img class="back-face" src="img/dlab.svg" alt="dlab" />
+    </div>  <div class="memory-card" data-framework="male">
+      <img class="front-face" src="img/oscar-nominees_0001_Layer-3.png" alt="M2" />
+      <img class="back-face" src="img/dlab.svg" alt="dlab" />
+    </div>  <div class="memory-card" data-framework="male">
+      <img class="front-face" src="img/oscar-nominees_0002_Layer-4.png" alt="M3" />
+      <img class="back-face" src="img/dlab.svg" alt="dlab" />
+    </div>  <div class="memory-card" data-framework="male">
+      <img class="front-face" src="img/oscar-nominees_0003_Layer-5.png" alt="M4" />
+      <img class="back-face" src="img/dlab.svg" alt="dlab" />
+    </div>  <div class="memory-card" data-framework="male">
+      <img class="front-face" src="img/oscar-nominees_0004_Layer-6.png" alt="M5" />
+      <img class="back-face" src="img/dlab.svg" alt="dlab" />
+    </div>  <div class="memory-card" data-framework="male">
+      <img class="front-face" src="img/oscar-nominees_0010_Layer-12.png" alt="M6" />
+      <img class="back-face" src="img/dlab.svg" alt="dlab" />
+    </div>  <div class="memory-card" data-framework="male">
+      <img class="front-face" src="img/oscar-nominees_0011_Layer-13.png" alt="M7" />
+      <img class="back-face" src="img/dlab.svg" alt="dlab" />
+    </div>  <div class="memory-card" data-framework="male">
+      <img class="front-face" src="img/oscar-nominees_0012_Layer-14.png" alt="M8" />
+      <img class="back-face" src="img/dlab.svg" alt="dlab" />
+    </div>  <div class="memory-card" data-framework="male">
+      <img class="front-face" src="img/oscar-nominees_0013_Layer-15.png" alt="M9" />
+      <img class="back-face" src="img/dlab.svg" alt="dlab" />
+    </div>  <div class="memory-card" data-framework="male">
+      <img class="front-face" src="img/oscar-nominees_0014_Layer-16.png" alt="M10" />
+      <img class="back-face" src="img/dlab.svg" alt="dlab" />
+
+
+    </div>  <div class="memory-card" data-framework="female">
+      <img class="front-face" src="img/oscar-nominees_0005_Layer-7.png" alt="F1" />
+      <img class="back-face" src="img/dlab.svg" alt="dlab" />
+
+    </div>  <div class="memory-card" data-framework="female">
+      <img class="front-face" src="img/oscar-nominees_0006_Layer-8.png" alt="F2" />
+      <img class="back-face" src="img/dlab.svg" alt="dlab" />
+
+    </div>  <div class="memory-card" data-framework="female">
+      <img class="front-face" src="img/oscar-nominees_0007_Layer-9.png" alt="F3" />
+      <img class="back-face" src="img/dlab.svg" alt="dlab" />
+
+    </div>  <div class="memory-card" data-framework="female">
+      <img class="front-face" src="img/oscar-nominees_0008_Layer-10.png" alt="F4" />
+      <img class="back-face" src="img/dlab.svg" alt="dlab" />
+
+    </div>  <div class="memory-card" data-framework="female">
+      <img class="front-face" src="img/oscar-nominees_0009_Layer-11.png" alt="F5" />
+      <img class="back-face" src="img/dlab.svg" alt="dlab" />
+
+    </div>  <div class="memory-card" data-framework="female">
+      <img class="front-face" src="img/oscar-nominees_0015_Layer-17.png" alt="F6" />
+      <img class="back-face" src="img/dlab.svg" alt="dlab" />
+    
+    </div>  <div class="memory-card" data-framework="female">
+      <img class="front-face" src="img/oscar-nominees_0016_Layer-18.png" alt="F7" />
+      <img class="back-face" src="img/dlab.svg" alt="dlab" />
+
+    </div>  <div class="memory-card" data-framework="female">
+      <img class="front-face" src="img/oscar-nominees_0017_Layer-19.png" alt="F8" />
+      <img class="back-face" src="img/dlab.svg" alt="dlab" />
+
+    </div>  <div class="memory-card" data-framework="female">
+      <img class="front-face" src="img/oscar-nominees_0018_Layer-20.png" alt="F9" />
+      <img class="back-face" src="img/dlab.svg" alt="dlab" />
+
+    </div>  <div class="memory-card" data-framework="female">
+      <img class="front-face" src="img/oscar-nominees_0019_Layer-21.png" alt="F10" />
+      <img class="back-face" src="img/dlab.svg" alt="dlab" />
+
+
+
+    </div>
+  </section>
+
+  <script src="scripts.js"></script>
 
 ![Oscar winners 2015](https://user-images.githubusercontent.com/115152807/208877192-e9ee9d61-9026-4395-9545-90735e8a4897.jpg)
 
