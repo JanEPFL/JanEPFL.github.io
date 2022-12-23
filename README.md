@@ -1,6 +1,4 @@
----
-title: "Does diversity pay off?"
----
+title: Does diversity pay off?
 
 # What do these actors have in common?
 
