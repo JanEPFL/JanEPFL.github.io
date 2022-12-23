@@ -117,16 +117,11 @@ The number of movie releases increased drastically in the last 100 years as depi
 
 ##	<black> Which characteristics of movies are correlated with the movie box office revenue?
 
-As we can see in the plot below, the box office revenue correlates with the budget of the movie. A higher budget tends to lead to a higher gross. We can also see that the public perception of a movie which is getting represented through the TMDB vote counts and vote averages slightly correlates with the box office. This implies that a movie which is getting perceived as a good movie is making more money than a movie which is getting perceived as a bad movie. The runtime on the other hand does not seem to have an influence on the financial success of a movie.
+It seems logical that the box office revenue is correlated with many characteristics of movies. The most obvious one, would be the influence of the movie budget on the box office revenue. Indeed, while not directly related, the budget influences other characteristics of movies such as more sophisticated visuals and more famous cast, which usually leads to more popular movies. A higher budget tends to lead to a higher gross. We can also see that the public perception of a movie which is getting represented through the TMDB vote counts and vote averages slightly correlates with the box office. A movie which is getting perceived as a good movie is making more money than a movie which is getting perceived as a bad movie.
+ 
+As we can see in the plots below, other variables like gender, actor ethnicities etc. seem to have an influence on the box office revenue as well, which we will explore in more detail in the rest of this datastory.
   
 ![output22](https://user-images.githubusercontent.com/115152807/209405126-55eea8d0-5e93-4aea-9c37-47318969b296.png)
-  
-The plot below shows that...
-
-![male_female_vs_box_office](https://user-images.githubusercontent.com/115152807/209372441-1321b2a3-3d48-427d-b331-fb755aaacad8.png)
-  
-![male_female_vs_box_office_regression](https://user-images.githubusercontent.com/115152807/209372442-8876757f-b5e7-431c-bdb9-aa0801d3a798.png)
-
 
 ## <black> How did the distribution of the most popular genres changed over time?
 
@@ -177,6 +172,10 @@ The following plot demonstrates the gender distribution of the movie cast for ea
 ![Plot12](https://user-images.githubusercontent.com/115152807/209193221-4388528e-38ed-4aa5-a18f-9b0e48a70b19.png)
   
 ![Plot13](https://user-images.githubusercontent.com/115152807/209194110-2c4fa8d9-7e0c-41c1-809d-a2a048ac2738.png)
+  
+![male_female_vs_box_office](https://user-images.githubusercontent.com/115152807/209372441-1321b2a3-3d48-427d-b331-fb755aaacad8.png)
+  
+![male_female_vs_box_office_regression](https://user-images.githubusercontent.com/115152807/209372442-8876757f-b5e7-431c-bdb9-aa0801d3a798.png)
   
 ![male_female_vs_box_office_regression](https://user-images.githubusercontent.com/115152807/209401566-6783d01a-8fa6-453d-91d9-372bbb6e409c.png)
 
