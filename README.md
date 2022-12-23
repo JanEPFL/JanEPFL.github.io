@@ -116,10 +116,10 @@ The number of movie releases increased drastically in the last 100 years as depi
 ![number_of_movies](https://user-images.githubusercontent.com/115152807/209181308-758de80c-eceb-40a5-b887-de69bc6b4421.png)
 
 ##	<black> Which characteristics of movies are correlated with the movie box office revenue?
-TODO: Following paragraph needs Update!
+
 As we can see in the plot below, the box office revenue correlates with the budget of the movie. A higher budget tends to lead to a higher gross. We can also see that the public perception of a movie which is getting represented through the TMDB vote counts and vote averages slightly correlates with the box office. This implies that a movie which is getting perceived as a good movie is making more money than a movie which is getting perceived as a bad movie. The runtime on the other hand does not seem to have an influence on the financial success of a movie.
   
-![Plot 8](https://user-images.githubusercontent.com/115152807/209186176-9e28bcdb-5e37-4cae-8b1d-bfe2af0cdea2.png)
+![output22](https://user-images.githubusercontent.com/115152807/209405126-55eea8d0-5e93-4aea-9c37-47318969b296.png)
   
 The plot below shows that...
   
