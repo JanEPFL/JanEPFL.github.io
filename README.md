@@ -4,9 +4,7 @@ white { color: white }
 <white> title: Does diversity pay off?</white>
 
 # What do these actors have in common?
-
-
-
+  
   <title>Memory Game</title>
 
   <link rel="stylesheet" href="styles.css">
@@ -84,17 +82,13 @@ white { color: white }
       <img class="front-face" src="img/oscar-nominees_0019_Layer-21.png" alt="F10" />
       <img class="back-face" src="img/dlab.svg" alt="dlab" />
 
-
-
     </div>
   </section>
 
   <script src="scripts.js"></script>
 
-![Oscar winners 2015](https://user-images.githubusercontent.com/115152807/208877192-e9ee9d61-9026-4395-9545-90735e8a4897.jpg)
 
 # They were the nominees for the acting academy award of 2016 and they are all white.
-
 
 
 # So what is this about?
