@@ -1,6 +1,9 @@
 <style>
 white { color: white }
 </style>
+<style>
+white { color: black }
+</style>
 <white> title: Does diversity pay off?</white>
 
 
@@ -9,7 +12,7 @@ white { color: white }
 
 
 
-# Let's play a little game! 
+<black> # Let's play a little game! </black
 ## Try to find matching pairs of the nominees for the acting academy award of 2016!
   
   <title>Memory Game</title>
