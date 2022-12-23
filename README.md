@@ -9,9 +9,12 @@ white { color: white }
 
 # They were the nominees for the acting academy award of 2016 and they are all white.
 
+
+
 # So what is this about?
 After in 2015 all 20 oscar acting nominations were awarded to white people, the [#OscarsSoWhite](https://mobile.twitter.com/search?q=%23oscarssowhite) hastag, criticising the lack of diversity and calling for changes in the film industry, went viral.
 ![Tweet_oscarssowhite](https://user-images.githubusercontent.com/115152807/209368526-95eb7624-c291-4f71-8cb0-948f5b1615ec.png)
+
 But should the film industry comply with these demands purely for ethical reasons, or does the film industry benefit from a more diverse cast also from a capitalistical point of view? To investigate whether a more diverse cast attracts a larger audience and thus achieves more financial success, we examine the box office revenue of the films in the ["CMU Movie Summary Corpus"](http://www.cs.cmu.edu/~ark/personas/) dataset. To avoid sparsity of data and to add further interesting features that go beyond the CMU dataset, we also add the ["The Movies Dataset"](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset). As a measure of diversity, we focus mainly on ethnicity, gender, and age. In particular, we are interested in whether moviegoers' acceptance or rejection for movies with a more diverse cast has changed over the last 100 years. Since movies produced in the US have the biggest audience and make by far the most money, we'll restrict our analysis on those movies.
 
 # And why should we care?
