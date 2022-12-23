@@ -62,7 +62,7 @@ For ethnicities, there exist the following two categories:
 
 The following plot depicts the distribution of the different ethnicities of the movie characters in our dataset. It is clearly visible that the majority of the characters are white.
 {% include ethnicities_evolution.html %}
-{% include thnicities_radar_chart.html %}
+{% include ethnicities_radar_chart.html %}
 ![Plot10](https://user-images.githubusercontent.com/115152807/209190539-a0584b66-48ff-43be-89b0-2d11be17eb32.png)
 ##	Did ethnical diversity in movies change over time?
 The next plot shows the distribution of the races of all movie characters for each decade. As we can see, the vast majority of movie characters in every decade is white and the dominance of white characters has its peak in the 1950s. However, since then the share of Asian and especially Black or African American characters has increased. This implies that the cast of movies has become more diverse over time.
