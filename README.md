@@ -1,6 +1,6 @@
 --- layout: default —
+...
 <style>
-white { color: white }
 black { color: black }
 </style>
 # <black> Let's play a little game! 
