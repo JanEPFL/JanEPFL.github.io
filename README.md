@@ -122,8 +122,6 @@ As we can see in the plot below, the box office revenue correlates with the budg
 ![output22](https://user-images.githubusercontent.com/115152807/209405126-55eea8d0-5e93-4aea-9c37-47318969b296.png)
   
 The plot below shows that...
-  
-![Plot 9](https://user-images.githubusercontent.com/115152807/209186298-721c7829-4484-48cc-b2ba-9a9cdda08207.png)
 
 ![male_female_vs_box_office](https://user-images.githubusercontent.com/115152807/209372441-1321b2a3-3d48-427d-b331-fb755aaacad8.png)
   
