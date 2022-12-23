@@ -161,7 +161,8 @@ The following plots depict the distribution of the different ethnicities of the 
 {% include ethnicities_evolution.html %}
 
 The previous plot gave us an insight about ethnical diversity importance among the top movies of each decade, but what we really want to know is whether increasing diversity will lead to a box office revenue increase. We can show this with the following plot, showing ethnical diversity against box office revenue. The regression lines show that, while minor, an increased white people ratio will lead to a decrease in box office revenue while an increased black african american ratio will lead to an increase in box office revenue. From the lack of representation of the other ethnical minorities, it is harder to make a statement about their influence on the box office revenue.
-TODO: Add Colinßs new plot
+
+![ethnicity_vs_box_office_regression](https://user-images.githubusercontent.com/115152807/209410661-2f5e1742-0821-4ad9-bbef-626d15d2f465.png)
 
 ###	<black> Did the gender ratio of the cast in movies change over time?
 The following plot demonstrates the gender distribution of the movie cast for each decade. As we can see, the distribution was nearly even in the 1910s and then changed in favor of a male superiority, which had its peak in the 1970s. Since then the share of female actors in the cast is slightly increasing. However, the distribution in the 2010s is still 2:1 in favor of males.
