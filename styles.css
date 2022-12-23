@@ -11,8 +11,8 @@
   }
   
   .memory-game {
-    width: 400px;
-    height: 400px;
+    width: 640px;
+    height: 640px;
     margin: auto;
     display: flex;
     flex-wrap: wrap;
