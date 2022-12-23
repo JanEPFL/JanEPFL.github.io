@@ -1,8 +1,3 @@
----
-title: Does Diversity Pay Off?
-description: Examining the relation between characteristics of movies and their box office revenue with an emphasis on factors like diversity and gender
----
-
 # What do these actors have in common?
 
 ![Oscar winners 2015](https://user-images.githubusercontent.com/115152807/208877192-e9ee9d61-9026-4395-9545-90735e8a4897.jpg)
