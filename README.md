@@ -95,13 +95,14 @@ Diversity is one of the most controversial topics of our time. However, the disc
 In this paragraph we examine general changes regarding the movie industry over time.
 The following plot shows that the actual value of 1 US-dollar changed dramatically between 1900 and 2022. Therefore, we have to take inflation into account, to be able to compare the movie box offices across different decades.
 ![Plot 1](https://user-images.githubusercontent.com/115152807/209177949-5a73702e-4890-4ad2-9b06-ec33899c320f.png)
-As we can see in the following two plots, even without inflation, the average movie box office revenue as well as the maximum movie box office increased in the last 100 years. This implies that movies are getting more popular and more successful over time.
+
+With the inflation adjusted box office revenue shown in the next plot, it can be seen that the rise of revenue over time is not as significant as it initially seems.
 {% include box_office_evolution.html %}
-![Plot 2](https://user-images.githubusercontent.com/115152807/209178710-2f249046-6815-4067-9520-86217c420ffd.png)
-![Plot 3](https://user-images.githubusercontent.com/115152807/209178721-97e6d243-7740-486d-9794-6be34d165d8d.png)
-In the subsequent two plots we can also see that the budget of movies also increased over time and that the ascent is even more steep than the ascent of the box office revenue. This implies that the movies are getting more expensive over time and the ratio between budget and revenue is actually slightly decreasing.
-![Plot 4](https://user-images.githubusercontent.com/115152807/209180362-2b5e1b7c-1443-4f84-a45d-0ed5a31b3f81.png)
-![Plot 5](https://user-images.githubusercontent.com/115152807/209180368-b18c693f-649e-4aca-93e0-88fb5cb4a354.png)
+
+In the subsequent plots, we can also see that the budget of movies has increased over time. Compared to the box office revenue, we can see that the budget is increasing faster, which implies that the ratio between budget and revenue is actually slightly decreasing.
+![average_budget](https://user-images.githubusercontent.com/115152807/209404178-87e0dcbd-6517-439a-9780-43892b49c910.png)
+![maximum_budget](https://user-images.githubusercontent.com/115152807/209404176-677afa79-6d02-4d19-b009-960e62af5620.png)
+
 Another interesting question would be how big the share of really sucessful movies is compared to the overall number of movies. The following plot delivers the answer and shows that the vast majority of released movies do not generate a huge amount of box office revenue.
 ![Plot 6](https://user-images.githubusercontent.com/115152807/209185289-29440889-5ec5-4f8e-807b-8f1717a29388.png)
 The number of movie releases increased drastically in the last 100 years as depicted in the following plot. This implies that the movie industry is a growing market.
