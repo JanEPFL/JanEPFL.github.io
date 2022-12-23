@@ -9,11 +9,11 @@ white { color: white }
 
   <title>Memory Game</title>
 
-  <link rel="stylesheet" href="_include/styles.css">
+  <link rel="stylesheet" href="styles.css">
 
   <section class="memory-game">
     <div class="memory-card" data-framework="male">
-      <img class="front-face" src="_include/img/oscar-nominees_0000_Layer-2.png" alt="M1" />
+      <img class="front-face" src="img/oscar-nominees_0000_Layer-2.png" alt="M1" />
       <img class="back-face" src="img/dlab.svg" alt="dlab" />
     </div>  <div class="memory-card" data-framework="male">
       <img class="front-face" src="img/oscar-nominees_0001_Layer-3.png" alt="M2" />
@@ -89,7 +89,7 @@ white { color: white }
     </div>
   </section>
 
-  <script src="_include/scripts.js"></script>
+  <script src="scripts.js"></script>
 
 ![Oscar winners 2015](https://user-images.githubusercontent.com/115152807/208877192-e9ee9d61-9026-4395-9545-90735e8a4897.jpg)
 
