@@ -95,6 +95,6 @@ Colin: Exploratory Data Analysis, Data Cleaning, Data Preprocessing, Data Visual
 
 Matthieu: Machine Learning
 
-Hendrik: Fighting the confounders and implementing fancy statistical tests
+Hendrik: Fighting the confounders and implementing statistical tests
 
 Jan: Creating the website and write the datastory
