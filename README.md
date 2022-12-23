@@ -80,7 +80,7 @@ After in 2015 all 20 oscar acting nominations were awarded to white people, the 
 
 ![Tweet_oscarssowhite](https://user-images.githubusercontent.com/115152807/209368526-95eb7624-c291-4f71-8cb0-948f5b1615ec.png)
 
-But should the film industry comply with these demands purely for ethical reasons, or does the film industry benefit from a more diverse cast also from a capitalistical point of view? To investigate whether a more diverse cast attracts a larger audience and thus achieves more financial success, we examine the box office revenue of the films in the ["CMU Movie Summary Corpus"](http://www.cs.cmu.edu/~ark/personas/) dataset. To avoid sparsity of data and to add further interesting features that go beyond the CMU dataset, we also add the ["The Movies Dataset"](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset). As a measure of diversity, we focus mainly on ethnicity, gender, and age. In particular, we are interested in whether moviegoers' acceptance or rejection for movies with a more diverse cast has changed over the last 100 years. Since movies produced in the US have the biggest audience and make by far the most money, we'll restrict our analysis on those movies.
+But should the film industry comply with these demands purely for ethical reasons, or does the film industry benefit from a more diverse cast also from a capitalistic point of view? To investigate whether a more diverse cast attracts a larger audience and thus achieves more financial success, we examine the box office revenue of the films in the ["CMU Movie Summary Corpus"](http://www.cs.cmu.edu/~ark/personas/) dataset. To avoid sparsity of data and to add further interesting features that go beyond the CMU dataset, we also add the ["The Movies Dataset"](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset). As a measure of diversity, we focus mainly on ethnicity, gender, and age. In particular, we are interested in whether moviegoers' acceptance or rejection for movies with a more diverse cast has changed over the last 100 years. Since movies produced in the US have the biggest audience and make by far the most money, we'll restrict our analysis to those movies.
 
 # <black> And why should we care?
 ## <black> 1) Financial reasons
@@ -177,8 +177,8 @@ Talking about the most successful movies, it appears that male dominated casts t
 It is interesting to note that although this visualization shows a clear trend, other statistical visualizations such as the following paired test contradict these findings.
 For this reason, we must always be careful when presenting findings that look signifiant at first glance.
   
-TODO: Insert Hendriks AB-test
-
+![female_ratios_differece](https://user-images.githubusercontent.com/115152807/209411333-20d3aa7a-da00-4f64-8a1a-d6a53c8fe431.png)
+  
 ## <black> Did the age distribution of actors in movies change over time?
 The following plot demonstrates the evolution of the age distribution of movie actors over the decades. As we can see, in the early 1900s, it seems actors were mostly young early adopters. The mean of actors then steadily increase with time, as if the same group of actors grew together. New young actors joining in may be the reason that the mean increase is not quite linear. Since the 1960, the age distribution has stopped going up and seems to have stabilized. Therefore, we can conclude that in the regard of age, diversity increased over time.
   
