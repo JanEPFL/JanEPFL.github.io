@@ -1,3 +1,4 @@
+--- layout: default —
 <style>
 white { color: white }
 black { color: black }
