@@ -21,6 +21,7 @@ In this paragraph we examine general changes regarding the movie industry over t
 The following plot shows that the actual value of 1 US-dollar changed dramatically between 1900 and 2022. Therefore, we have to take inflation into account, to be able to compare the movie box offices across different decades.
 ![Plot 1](https://user-images.githubusercontent.com/115152807/209177949-5a73702e-4890-4ad2-9b06-ec33899c320f.png)
 As we can see in the following two plots, even without inflation, the average movie box office revenue as well as the maximum movie box office increased in the last 100 years. This implies that movies are getting more popular and more successful over time.
+{% include box_office_evolution.html %}
 ![Plot 2](https://user-images.githubusercontent.com/115152807/209178710-2f249046-6815-4067-9520-86217c420ffd.png)
 ![Plot 3](https://user-images.githubusercontent.com/115152807/209178721-97e6d243-7740-486d-9794-6be34d165d8d.png)
 In the subsequent two plots we can also see that the budget of movies also increased over time and that the ascent is even more steep than the ascent of the box office revenue. This implies that the movies are getting more expensive over time and the ratio between budget and revenue is actually slightly decreasing.
@@ -30,16 +31,20 @@ Another interesting question would be how big the share of really sucessful movi
 ![Plot 6](https://user-images.githubusercontent.com/115152807/209185289-29440889-5ec5-4f8e-807b-8f1717a29388.png)
 The number of movie releases increased drastically in the last 100 years as depicted in the following plot. This implies that the movie industry is a growing market.
 ![Plot 7](https://user-images.githubusercontent.com/115152807/209181308-758de80c-eceb-40a5-b887-de69bc6b4421.png)
+
 ##	Which characteristics of movies are correlated with the movie box office revenue?
 TODO: Following paragraph needs Update!
 As we can see in the plot below, the box office revenue correlates with the budget of the movie. A higher budget tends to lead to a higher gross. We can also see that the public perception of a movie which is getting represented through the TMDB vote counts and vote averages slightly correlates with the box office. This implies that a movie which is getting perceived as a good movie is making more money than a movie which is getting perceived as a bad movie. The runtime on the other hand does not seem to have an influence on the financial success of a movie.
 ![Plot 8](https://user-images.githubusercontent.com/115152807/209186176-9e28bcdb-5e37-4cae-8b1d-bfe2af0cdea2.png)
-
 The plot below shows that...
 ![Plot 9](https://user-images.githubusercontent.com/115152807/209186298-721c7829-4484-48cc-b2ba-9a9cdda08207.png)
 
+## How did the distribution of the most popular genres changed over time?
+{% include box_office_genre_evolution.html %}
+
 ## Lets talk about diversity:
 First we have to clarify here, what diversity is. Wikipedia says that "Diversity as seen in sociology and political studies is the degree of differences in identifying features among the members of a purposefully defined group, such as any group differences in racial or ethnic classifications, age, gender, religion, philosophy, physical abilities, socioeconomic background, sexual orientation, gender identity, intelligence, mental health, physical health, genetic attributes, personality, behavior or attractiveness" [1]. In our analysis we focus on racial and ethnic classsifications, gender, and age. 
+
 ##	Does ethnical diversity correlate with the box office revenue?
 In order to answer this question, we have to clarify how we confine different races and ethnicities. Since we examine only US-american movies, we adapt the racial and ethnical categories of the US census [2].
 
@@ -56,6 +61,8 @@ For ethnicities, there exist the following two categories:
 2) Not Hispanic or Latino
 
 The following plot depicts the distribution of the different ethnicities of the movie characters in our dataset. It is clearly visible that the majority of the characters are white.
+{% include ethnicities_evolution.html %}
+{% include thnicities_radar_chart.html %}
 ![Plot10](https://user-images.githubusercontent.com/115152807/209190539-a0584b66-48ff-43be-89b0-2d11be17eb32.png)
 ##	Did ethnical diversity in movies change over time?
 The next plot shows the distribution of the races of all movie characters for each decade. As we can see, the vast majority of movie characters in every decade is white and the dominance of white characters has its peak in the 1950s. However, since then the share of Asian and especially Black or African American characters has increased. This implies that the cast of movies has become more diverse over time.
@@ -91,9 +98,3 @@ Matthieu: Machine Learning
 Hendrik: Fighting the confounders and implementing fancy statistical tests
 
 Jan: Creating the website and write the datastory
-
-
-
-{% include figure.html %}
-
-{% include interactive.html %}
