@@ -120,9 +120,7 @@ The plot below shows that...
 
 ## <black> How did the distribution of the most popular genres changed over time?
 
-<div style="width:50px; height:50px">
 {% include box_office_genre_evolution.html %}
-</div>  
 
 ## <black> Lets talk about diversity:
 First we have to clarify here, what diversity is. Wikipedia says that "Diversity as seen in sociology and political studies is the degree of differences in identifying features among the members of a purposefully defined group, such as any group differences in racial or ethnic classifications, age, gender, religion, philosophy, physical abilities, socioeconomic background, sexual orientation, gender identity, intelligence, mental health, physical health, genetic attributes, personality, behavior or attractiveness" [1]. In our analysis we focus on racial and ethnic classsifications, gender, and age. 
