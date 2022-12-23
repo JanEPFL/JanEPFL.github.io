@@ -49,6 +49,7 @@ After this definition, there exist the six following racial categories:
 4) American Indian or Alaska Native
 5) Native Hawaiian or Other Pacific Islander
 6) Other (e.g Aboriginal or Indigenous Australian)
+
 For ethnicities, there exist the following two categories:
 1) Hispanic or Latino
 2) Not Hispanic or Latino
