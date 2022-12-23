@@ -3,6 +3,12 @@ white { color: white }
 </style>
 <white> title: Does diversity pay off?</white>
 
+
+
+
+
+
+
 # Let's play a little game! 
 ## Try to find matching pairs of the nominees for the acting academy award of 2016!
   
